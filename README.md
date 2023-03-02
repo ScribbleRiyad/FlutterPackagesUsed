@@ -1,6 +1,5 @@
 # FlutterPackagesUsed
 
-Package Name ------------------------------------- Link---------------------------------------
+Packages Name & Links:-
+1.[flutter_timer_countdown](https://pub.dev/packages/flutter_timer_countdown")        :- `https://pub.dev/packages/flutter_timer_countdown` <b>
 
-1.'flutter_timer_countdown'        :- '' <b>
-[flutter_timer_countdown](https://pub.dev/packages/flutter_timer_countdown")
