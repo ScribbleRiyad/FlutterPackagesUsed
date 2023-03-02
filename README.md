@@ -4,4 +4,5 @@
 1.[Flutter Timer Countdown](https://pub.dev/packages/flutter_timer_countdown")        :- https://pub.dev/packages/flutter_timer_countdown <br><br>
 <img src="https://i.ibb.co/fNYsJKd/timer-description.gif" width=50% height=50%><br><br>
 2.[Dio](https://pub.dev/packages/dio")        :- https://pub.dev/packages/dio <br><br>
-![](https://i.ibb.co/rtdjrqV/flutter-dio-http-client.png =250x250)<br><br>
+<img src="https://i.ibb.co/rtdjrqV/flutter-dio-http-client.png" width=50% height=50%><br><br>
+
