@@ -6,5 +6,5 @@
 [2.Dio](https://pub.dev/packages/dio)        :- https://pub.dev/packages/dio <br><br>
 <img src="https://i.ibb.co/rtdjrqV/flutter-dio-http-client.png" width=50% height=50%><br><br>
 [3.Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)        :-https://pub.dev/packages/font_awesome_flutter<br><br>
-<img src="https://i.ibb.co/C8bhvMp/maxresdefault.jpg" width=50% height=50%><br><br>
+<img src="https://i.ibb.co/C8bhvMp/maxresdefault.jpg" width=50% height=50%><br>
 
