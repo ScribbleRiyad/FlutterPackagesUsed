@@ -8,5 +8,5 @@
 [3.Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)        :-https://pub.dev/packages/font_awesome_flutter<br><br>
 <img src="https://i.ibb.co/C8bhvMp/maxresdefault.jpg" width=50% height=50%><br>
 [4.In App_Update ](https://pub.dev/packages/in_app_update)        :- https://pub.dev/packages/flutter_timer_countdown <br><br>
-<img src="https://i.ibb.co/fNYsJKd/timer-description.gif" width=50% height=50%><img src="https://i.ibb.co/drTrCjZ/Screen-Shot-2019-05-09-at-2-13-58-PM.png" width=50% height=50%><br><br>
+<img src="https://i.ibb.co/drTrCjZ/Screen-Shot-2019-05-09-at-2-13-58-PM.png" width=50% height=50%><br><br>
 
